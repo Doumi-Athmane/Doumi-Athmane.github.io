@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://yashitanamdeo.github.io/sitemap.xml
-Host: https://yashitanamdeo.github.io
+Sitemap: https://doumi-athmane.github.io/sitemap.xml
+Host: https://doumi-athmane.github.io
